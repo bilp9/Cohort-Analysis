@@ -96,9 +96,6 @@ Two tables are stored in a SQLite database:
 
 ---
 
-## 📸 Sample Visualization
-![Cohort Heatmap](<heatmap.png>)
-
 ---
 
 ## 📎 Files in This Project
@@ -122,4 +119,4 @@ Two tables are stored in a SQLite database:
 ## 📬 Contact
 **Author:** Billy Pierre  
 **GitHub:** [https://github.com/bilp9](https://github.com/bilp9)  
-**LinkedIn:** [https://www.linkedin.com/feed/](https://www.linkedin.com/feed/)  
+**LinkedIn:** [https://www.linkedin.com/feed/](https://www.linkedin.com/feed](https://www.linkedin.com/in/pierrebilly/)  
