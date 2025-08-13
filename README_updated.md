@@ -89,10 +89,6 @@ The dataset is provided in two formats for flexibility:
 
 ---
 
-## 📸 Sample Visualization
-![Cohort Heatmap](<heatmap.png>)
-
----
 
 ## 📎 Files in This Project
 - `Cohort_Analysis.ipynb` – Jupyter/Colab notebook with SQL, Python code, and analysis.
